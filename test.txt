@@ -1,4 +1,4 @@
-Mon premier projet Git
+Version modifiee depuis GITHUB
 Deuxieme ligne ajoutee
 Modification faite depuis GitHub
 Ligne ajoutee depuis GitHub directement
